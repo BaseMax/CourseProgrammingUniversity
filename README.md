@@ -13,7 +13,7 @@ This course is designed to teach students programming principles, problem-solvin
 - **Seyyed Ali Mohammadiyeh**
   - Software Engineer and Open-Source Maintainer, GitHub
   - GitHub: [BaseMax](https://github.com/BaseMax)
-  - Email: maxbasecode@gmail.com / alim [ @ ] kashanu.ac.ir
+  - Email: maxbasecode [ @ ] gmail.com / alim [ @ ] kashanu.ac.ir
   - Department of Pure Mathematics, Faculty of Mathematical Sciences, University of Kashan, Kashan 87317-53153, I. R. Iran
 
 ### Course Information:
