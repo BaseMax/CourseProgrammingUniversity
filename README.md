@@ -10,7 +10,8 @@ This course is designed to teach students programming principles, problem-solvin
 
 - **Seyyed Ali Mohammadiyeh**
   - Software Engineer and Open-Source Maintainer, GitHub
-  - Email: maxbasecode@gmail.com / alim@kashanu.ac.ir
+  - GitHub: [BaseMax](https://github.com/BaseMax)
+  - Email: maxbasecode@gmail.com / alim [ @ ] kashanu.ac.ir
   - Department of Pure Mathematics, Faculty of Mathematical Sciences, University of Kashan, Kashan 87317-53153, I. R. Iran
 
 ### Course Information:
@@ -18,8 +19,6 @@ This course is designed to teach students programming principles, problem-solvin
 This course is offered by the **Department of Pure Mathematics, Faculty of Mathematical Sciences** at **University of Kashan**. It is designed to teach students the fundamentals of programming, algorithms, and problem-solving. The course includes various practical assignments and exercises to help students apply their learning in real-world scenarios.
 
 - **Instructor**: Seyyed Ali Mohammadiyeh
-- **Email**: alim [@] kashanu.ac.ir
-- **GitHub**: [BaseMax](https://github.com/BaseMax)
 - **Location**: Online - University of Kashan, Kashan, Iran
 - **Department**: Department of Pure Mathematics, Faculty of Mathematical Sciences
 - **University**: University of Kashan
@@ -31,7 +30,7 @@ This course is offered by the **Department of Pure Mathematics, Faculty of Mathe
 This repository contains:
 
 - **Course Materials**: Lecture notes, tutorials, and other important references.
-- **Exercises**: Over 250 exercises to help you practice and master the concepts covered in the course.
+- **Exercises**: Over 300 exercises to help you practice and master the concepts covered in the course.
 - **Projects**: 10 comprehensive projects designed to challenge your programming skills and encourage practical application of the course content.
 
 Each folder within the repository corresponds to a specific section or module of the course. The exercises and projects will guide you through the key concepts of programming and help you apply them effectively.
