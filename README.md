@@ -2,6 +2,8 @@
 
 Welcome to the repository for the **Programming** course at the **University of Kashan**. This repository includes the course materials, exercises, projects, and further information about the course.
 
+![Course on Programming for University of Kashan](book-cover.jpg)
+
 ## Course Overview
 
 This course is designed to teach students programming principles, problem-solving techniques, and software development practices. The course covers a range of topics, from basic programming concepts to advanced problem-solving strategies. By the end of this course, students will have developed the skills necessary to write, debug, and maintain software projects.
