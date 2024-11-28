@@ -65,7 +65,7 @@ You can explore the different sections and materials through the folders in the 
 
 ## License
 
-This course content is open-source and available under the [MIT License](LICENSE). Feel free to use and contribute to the materials as you see fit.
+This course content is open-source and available under the [GPL License](LICENSE). Feel free to use and contribute to the materials as you see fit.
 
 ## Contact
 
