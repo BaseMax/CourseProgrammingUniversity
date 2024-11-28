@@ -71,9 +71,8 @@ This course content is open-source and available under the [MIT License](LICENSE
 
 For any questions, feel free to reach out to the instructor via the provided email addresses or open an issue in the GitHub repository for further discussion.
 
----
-
 ### Acknowledgments
 
-- Special thanks to the **University of Kashan** and the **Department of Pure Mathematics** for their continuous support in delivering this course.
-- Thanks to all contributors who have made this course possible and accessible to students worldwide.
+Special thanks to the **University of Kashan** and the **Department of Pure Mathematics** for their continuous support in delivering this course.
+
+Thanks to all contributors who have made this course possible and accessible to students worldwide.
