@@ -2,7 +2,7 @@
 
 Welcome to the repository for the **Programming** course at the **University of Kashan**. This repository includes the course materials, exercises, projects, and further information about the course.
 
-![Course on Programming for University of Kashan](book-cover.jpg)
+![Course on Programming for University of Kashan](./assets/book-cover.jpg)
 
 ## Course Overview
 
@@ -53,6 +53,20 @@ Each folder within the repository corresponds to a specific section or module of
 ## Open Source
 
 This course and its materials are open-source and publicly available for anyone to use. Feel free to fork the repository, contribute, or adapt the materials to your needs. The goal is to make high-quality educational resources accessible to everyone.
+
+## Compile & Generate
+To compile and generate PDF please make sure your system has LaTex and XeTex installed. These are essential for compiling documents correctly and rendering high-quality text formatting.
+
+```bash
+sudo apt update && sudo apt install texlive-xetex texlive-latex-extra
+
+
+xelatex --version
+# XeTeX 3.141592653-2.6-0.999996
+
+make
+# Generates book.pdf in the same directory
+```
 
 ## Explore the Course Materials
 

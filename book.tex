@@ -4,16 +4,25 @@
 \usepackage{advdate}
 \usepackage{xepersian}
 
-\settextfont[Scale = 1.0 ,
-BoldFont = *Bd ,
-ItalicFont = *It ,
-BoldItalicFont = *BdIt ,
-Extension = .ttf
+\settextfont[
+    Path=fonts/,
+    Scale=1.0,
+    BoldFont=*Bd,
+    ItalicFont=*It,
+    BoldItalicFont=*BdIt,
+    Extension=.ttf
 ]{XB Niloofar}
-\setlatintextfont[Scale=1.1]{Times New Roman}
-\newfontfamily\englishfont{Times New Roman}
-\linespread{1.5}
 
+\setlatintextfont[
+    Path=fonts/,
+    Scale=1.1
+]{Times New Roman}
+
+\newfontfamily\englishfont[
+    Path=fonts/,
+]{Times New Roman}
+
+\linespread{1.5}
 
 \begin{document}
 	\title{یادگیری برنامه‌نویسی با تمرین}
